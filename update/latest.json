@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/dlxogns0104161-design/ImageAlarmUpdater/releases/download/v1.1.0/ImageAlarm_1.1.0.zip",
-  "notes": "정식 안정 버전",
+  "version": "1.1.1",
+  "url": "https://github.com/dlxogns0104161-design/ImageAlarmUpdater/releases/download/v1.1.1/ImageAlarm_1.1.1.zip",
+  "notes": "로그 유사도 추가",
   "sha256": ""
 }
